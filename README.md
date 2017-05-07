@@ -1,6 +1,6 @@
 ## Welcome to my DP list Pages
 
-This page show's my DP favautite in the city of BJ.
+Here is a [page](./myDP.html) that shows my DP favautite in the city of BJ.
 
 ### To do list
 
